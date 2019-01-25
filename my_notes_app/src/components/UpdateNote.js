@@ -18,7 +18,7 @@ class UpdateNote extends Component {
 
   componentDidMount() {
     const id = this.props.match.params.post_id;
-    let body = ""
+    let body = "";
 
     this.props.posts.forEach(post => {
       if(post.id === id) {
