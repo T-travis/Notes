@@ -1,4 +1,4 @@
-This is my first React and Redux app.  It is a front end only app but implements CRUD principlces using Redux.  
+This is my first React and Redux app.  It is a front end only app (at this time) but implements CRUD principlces using Redux.  
 Still needs more styles added. 
 
 
